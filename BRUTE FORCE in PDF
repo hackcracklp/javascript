@@ -1,0 +1,13 @@
+//Brute Force Em PDF com JavaScript
+
+1-Crie Sua Lista de PassWord Em Arrays Ex:       var listaPass = ["pass1","pass2","pass3"];
+***********************
+2-Coloque-a Dentro De Uma função Ex;  function BruteForce(){listaPass;}
+***********************
+3-Crie Um Onclick No Botão De Login, Faça Com Que Toda Vez Que Clicar Neste Botão Aquela Função Seja Execultada
+***********************
+4-Faça Um Loop Com Intervalos De Pelo Menos 1 ou 2 Segundos Pra Dar Tempo Do Servidor Responder
+
+
+
+Caso Não Entendeu, Veja Este Video ---->>> https://drive.google.com/open?id=1KPrxcjErRVUWgHZTQAfcNXbAKaZGlrWl
